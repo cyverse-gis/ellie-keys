@@ -1,0 +1,28 @@
+# create me a heat map of the data
+
+name: heatmap
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - nodejs
+  - folium
+  - geopandas
+  - geopy
+  - geocoder
+  - geoplot
+  - descartes
+  - mapclassify
+  - pysal
+  - contextily
+  - rasterio
+  - rasterstats
+  - earthpy
+  - earthengine-api

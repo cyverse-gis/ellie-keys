@@ -10,4 +10,3 @@ conda activate
 conda activate heatmap
 conda install folium #if it dosent already install
 conda deactivate && conda activate heatmap && ipython kernel install --name "heatmap" --user
-jupyter lab

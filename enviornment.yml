@@ -13,4 +13,3 @@ dependencies:
   - jupyter
   - jupyterlab
   - folium
-  - geopy.geocoders
